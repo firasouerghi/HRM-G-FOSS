@@ -12,7 +12,7 @@ big thank to EYA TRABELSI for the precious  design advices .
 
 I am open to all your proposals do not be shy just PING ME ON fb https://www.facebook.com/firasrealmadride .
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<"Think free as in free speech, not free beer" <<Richard Stallman>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<><><><><><><><><><><><><><><><><>"Think free as in free speech, not free beer" <><><><><><><><><><><><><><><><><><><><><><><><><>
   
   
   Editor : Ouerghi Firas 
