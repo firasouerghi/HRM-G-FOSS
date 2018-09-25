@@ -10,9 +10,9 @@ interaction with the databases .
 big thank to EYA TRABELSI for the precious  design advices .
 
 
-I am open to all your proposals do not be shy just PING ME ON fb https://www.facebook.com/firasrealmadride .
+I am open to all your proposals dont be shy just PING ME ON fb https://www.facebook.com/firasrealmadride .
 
-<><><><><><><><><><><><><><><><><>"Think free as in free speech, not free beer" <><><><><><><><><><><><><><><><><><><><><><><><><>
+<><><><><><><><><><><><><><><><><>"Think free as in free speech, not free beer" <><><><><><><><><><><><><><><>
   
   
   Editor : Ouerghi Firas 
@@ -21,3 +21,20 @@ I am open to all your proposals do not be shy just PING ME ON fb https://www.fac
   
   
   
+  
+  
+  
+                        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                        !!!!!DOWNLOADS POSSIBLE ONLY WITH utm @!!!!!
+                        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  
+  <><><><><><><><><><><><><><><><><><><><><>executable file for Linux Users<><><><><><><><><><><><><><>
+
+
+https://drive.google.com/open?id=1BkKHjvLZdxr73NyLIx4wx2eD1iASjXZf
+
+
+
+<><><><><><><><><><><><><><><><><><><><><>executable file for Windows Users<><><><><><><><><><><><><>
+  
+  https://drive.google.com/open?id=1b32P1Qa14aFlJsYR8qXA5kqRL0-ZPkVZ
