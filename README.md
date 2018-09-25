@@ -1,4 +1,4 @@
-# HRM-G-FOSS
+# HRM-G2FOSS
 
 the HRM-G²FOSS-v0.1 is  a FREE OPEN SOURCE SOTFWARE  basically designed for G²FOSS ENIT community to help us manage our human resourses.
 
