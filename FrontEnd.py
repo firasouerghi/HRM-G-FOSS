@@ -423,7 +423,7 @@ def sendG ():
     print(anniversaryList)
 
     for x, y in anniversaryList.items():
-        a=client=fbchat.Client('100002126282373','3asba123')
+        a=client=fbchat.Client('put your email @ here ','put your password here ')
         client.send(fbchat.models.Message("Dear  "+str(x[0])+" \n Thank you so much for being such an amazing memeber of our community .\n On your special day, We just wanted you to know that we are happy to have such a wonderful G²FOSSER.\n we will remember you in our thoughts forever.We wish you all the good \nthings on your special day and may the FOSS bless you. Have a joyous birthday celebration! \nG²FOSS ENIT COMMUNITY "),str(y))
         messagebox.showinfo("Send ", "successfully sent  to %s:" % str(x[0]))
     b1.configure(text='Notification',bg='#EEE8AA',font=("Helvetica", 10, "bold italic"))
@@ -730,8 +730,8 @@ def clear():
 def send():
     for item in reclist.get(0,END):
 
-        email_user = 'firasrealmadride@gmail.com'
-        email_password = 'ousama ben leden'
+        email_user = 'pass your email @ here'
+        email_password = 'password goes here '
         email_send = item
         subject =e1.get('1.0','end-1c')
         msg = MIMEMultipart()
