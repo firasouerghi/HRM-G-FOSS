@@ -28,11 +28,13 @@ I am open to all your proposals dont be shy just PING ME ON fb https://www.faceb
                         !!!!!DOWNLOADS POSSIBLE ONLY WITH utm @!!!!!
                         !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   
+  <><><><><><><><><><><><><><><><><><><><><>executable file for Linux Users<><><><><><><><><><><><><><><><><><><>
+
+
+https://drive.google.com/open?id=1BkKHjvLZdxr73NyLIx4wx2eD1iASjXZf
+
+
+
+<><><><><><><><><><><><><><><><><><><><><>executable file for Windows Users<><><><><><><><><><><><><><><><><><><>
   
-  <><><><><><><><><><><><><><><><><><><><><>executable file for Linux Users<><><><><><><><><><><><><><><><><><><><><><><><><>
-  https://drive.google.com/open?id=1BkKHjvLZdxr73NyLIx4wx2eD1iASjXZf
-  
-  
-    <><><><><><><><><><><><><><><><><><><><><>executable file for Windows Users<><><><><><><><><><><><><><><><><><><><><><><><><>
-  
-    https://drive.google.com/open?id=1b32P1Qa14aFlJsYR8qXA5kqRL0-ZPkVZ
+  https://drive.google.com/open?id=1b32P1Qa14aFlJsYR8qXA5kqRL0-ZPkVZ
