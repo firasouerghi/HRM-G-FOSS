@@ -2,7 +2,7 @@
 
 the HRM-G²FOSS-v0.1 is  a FREE OPEN SOURCE SOTFWARE  basically designed for G²FOSS ENIT community to help us manage our human resourses.
 
-Developed entirely with python thanks to it's various packages and libraries from tkinter to build the GUI, to sqlite3 for the 
+Developed entirely with python thanks to it's various packages and libraries like tkinter to build the GUI && sqlite3 for the 
 
 interaction with the databases .
 
